@@ -1,0 +1,9 @@
+[submodule "libs/server"]
+	path = libs/server
+	url = git@github.com:Evenfall-Tech/svitogen_server.git
+[submodule "libs/generator"]
+	path = libs/generator
+	url = git@github.com:Evenfall-Tech/svitogen_generator.git
+[submodule "libs/client_csharp"]
+	path = libs/client_csharp
+	url = git@github.com:Evenfall-Tech/svitogen_client_csharp.git
